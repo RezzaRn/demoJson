@@ -26,9 +26,16 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "location": "San Francisco, CA",
+    "bio": "I'm a creative developer & designer with a passion for creating user-centered digital solutions. In my free time, I enjoy exploring new design trends, contributing to open-source projects, or enjoying a good cup of coffee while sketching new ideas.",
+    "bioHobbies": "When I'm not coding, you'll find me exploring new design trends, contributing to open-source projects, or enjoying a good cup of coffee while sketching new ideas.",
+    "skills": {
+        "frontend": ["React", "Vue", "TypeScript"],
+        "backend": ["Node.js", "Python"],
+        "design": ["Figma", "Sketch", "Adobe XD"],
+        "other": ["Git", "Agile", "Scrum"]
+    }
   },
-  "about":{
-    "name": "Bang Ujang"
-  }
 }
